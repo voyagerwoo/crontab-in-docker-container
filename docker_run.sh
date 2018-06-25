@@ -1,0 +1,1 @@
+docker run -d --rm -v `pwd`:/data cron-in-docker

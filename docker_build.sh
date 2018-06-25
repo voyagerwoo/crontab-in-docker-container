@@ -1,0 +1,1 @@
+docker build -t cron-in-docker .
