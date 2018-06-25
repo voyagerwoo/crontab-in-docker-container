@@ -1,0 +1,1 @@
+* * * * * root bash /root/job.sh && echo "run job.sh $(date)" >> /var/log/cron.log 2>&1
